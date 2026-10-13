@@ -9,19 +9,19 @@ function Categorias() {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
 
         <div className="bg-gray-900 text-white p-6 rounded-xl text-center">
-          🎮 Acción
+          Acción
         </div>
 
         <div className="bg-gray-900 text-white p-6 rounded-xl text-center">
-          🏎️ Carreras
+          Carreras
         </div>
 
         <div className="bg-gray-900 text-white p-6 rounded-xl text-center">
-          ⚔️ Aventura
+          Aventura
         </div>
 
         <div className="bg-gray-900 text-white p-6 rounded-xl text-center">
-          🏀 Deportes
+          +18
         </div>
 
       </div>

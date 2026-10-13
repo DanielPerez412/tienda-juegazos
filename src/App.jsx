@@ -10,7 +10,7 @@ const steam = (id) =>
 
 const productos = [
   {
-    nombre: 'Minecraft',
+    nombre: 'maincra',
     precio: 89900,
     descuento: 15,
     imagen:

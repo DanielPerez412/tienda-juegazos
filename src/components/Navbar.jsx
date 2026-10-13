@@ -4,7 +4,7 @@ function Navbar() {
       <div className="max-w-6xl mx-auto flex justify-between items-center">
         
         <h1 className="text-2xl font-bold">
-          🎮 GameStore
+          GameStore
         </h1>
 
         <div className="flex gap-6">

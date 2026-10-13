@@ -6,7 +6,7 @@ function Promocion() {
 
         <div>
           <h3 className="text-2xl md:text-3xl font-extrabold">
-            🔥 Semana Gamer: hasta 30% de descuento
+            Semana Gamer: hasta 30% de descuento
           </h3>
           <p className="text-sm md:text-base">
             Envío gratis en compras superiores a $150.000

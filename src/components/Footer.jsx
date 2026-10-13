@@ -7,7 +7,7 @@ function Footer() {
       </p>
 
       <p className="text-gray-400 mt-2">
-        Tu tienda de videojuegos favorita 🎮
+        Tu tienda de videojuegos favorita
       </p>
 
     </footer>

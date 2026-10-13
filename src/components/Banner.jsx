@@ -5,7 +5,7 @@ function Banner() {
       <div className="max-w-6xl mx-auto text-center">
 
         <h2 className="text-4xl font-bold mb-4">
-          🎮 Los mejores videojuegos
+          Los mejores videojuegos
         </h2>
 
         <p className="text-lg mb-6">
